@@ -1,1 +1,3 @@
-a=2
+
+a=1
+>>>>>>> 3e1cbec (local change:a=1)
